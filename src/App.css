@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+.App {
+  text-align: center;
+}
+
+h1{
+  font-family: 'Slabo 27px', serif;
+  font-size: 3.2em;
+  letter-spacing: 3px;
+  color: rgba(76, 197, 187, 0.938);
+}
